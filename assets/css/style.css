@@ -19,3 +19,8 @@
 .fa-angle-up {
   color: tomato;
 }
+
+.float-end a {
+  text-decoration: none;
+  color: #5a5a5a;
+}
