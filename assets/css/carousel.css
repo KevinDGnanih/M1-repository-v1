@@ -75,6 +75,19 @@ body {
 
 /* rtl:end:ignore */
 
+/*Video Section*/
+
+.video-sec > h1 {
+  text-align: center;
+  padding-top: -80px;
+}
+
+.video-sec > div {
+  margin-top: 50px;
+  display: inline-block;
+}
+
+
 
 /* Featurettes
 ------------------------- */
@@ -89,6 +102,44 @@ body {
   line-height: 1;
   /* rtl:remove */
   letter-spacing: -.05rem;
+}
+
+/*Footer Section*/
+
+.socials {
+  margin-left: 470px;
+}
+
+.socials ul {
+  
+  position: relative;
+  
+}
+
+.socials li {
+  
+  padding: 15px;
+  display: inline;
+  list-style-type: none;
+}
+
+.socials a {
+  font-size: 25px;
+  color:rgb(82, 80, 80)
+}
+
+.socials a:hover {
+  color: tomato;
+  
+}
+
+.footer-spotify {
+  font-size: 25px;
+  color:rgb(82, 80, 80);
+}
+
+.footer-spotify:hover {
+  color: tomato;
 }
 
 
