@@ -39,18 +39,40 @@ body {
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
+.row h1 {
+  text-align: center;
+}
+
 .marketing .col-lg-4 {
+  margin-top: 50px;
   margin-bottom: 1.5rem;
   text-align: center;
 }
 .marketing h2 {
-  font-weight: 400;
+  font-size: 2em;
+  
 }
 /* rtl:begin:ignore */
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
 }
+
+.fa-spotify {
+  color: rgb(24, 180, 24);
+  font-size: 80px;
+}
+
+.fa-itunes {
+  color: rgb(214, 75, 75);
+  font-size: 80px;
+}
+
+.fa-amazon {
+  color: rgb(82, 80, 80);
+  font-size: 80px;
+}
+
 /* rtl:end:ignore */
 
 
