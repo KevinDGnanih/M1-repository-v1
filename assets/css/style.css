@@ -54,12 +54,12 @@
   margin-top: 5%;
 }
   
-h1 {
+.cont-h h1 {
   margin: 0 0 20px;
   font-weight: 400;
   text-align: center;
 }
-p {
+.cont-p p {
   margin: 0 0 5px;
 }
 .main-block {
