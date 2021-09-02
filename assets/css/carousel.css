@@ -87,6 +87,13 @@ body {
   display: inline-block;
 }
 
+/*Gallery Section*/
+
+.gallery-h {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
 
 
 /* Featurettes
