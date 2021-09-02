@@ -24,3 +24,21 @@
   text-decoration: none;
   color: #5a5a5a;
 }
+
+.btn, .btn-lg, .btn-primary {
+  color: #5a5a5a;
+  background-color: white;
+  border: 1px solid tomato;
+}
+
+.btn:hover {
+  background-color: tomato;
+}
+
+.nav-link:hover {
+  color: tomato !important; 
+}
+
+#navbarCollapse {
+  margin-left: 60%;
+}

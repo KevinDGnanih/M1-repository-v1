@@ -9,6 +9,10 @@ body {
 }
 
 
+#logo {
+  font-size: 2em;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -73,7 +77,7 @@ body {
 }
 
 .fa-amazon {
-  color: rgb(82, 80, 80);
+  color: rgb(201, 131, 2);
   font-size: 80px;
 }
 
