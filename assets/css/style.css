@@ -42,7 +42,7 @@
 
 
 #navbarCollapse {
-  margin-left: 60%;
+  flex-grow: 0;
 }
 
 /*Form Section*/
