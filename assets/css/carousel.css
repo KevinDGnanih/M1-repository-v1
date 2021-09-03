@@ -85,6 +85,10 @@ body {
 
 /*Video Section*/
 
+#video-block > div {
+  display: inline-block;
+}
+
 .video-sec > h1 {
   text-align: center;
   padding-top: -80px;
@@ -191,4 +195,28 @@ body {
   }
 }
 
+@media screen and (min-width: 1440px) {
+  .col-md-12 {
+    columns: 3;
+    grid-row: 2;
+  }
+}
 
+@media screen and (min-width: 1024px) {
+  .col-md-12 {
+    columns: 2;
+  }
+  
+}
+
+@media screen and (min-width: 768px) {
+  .col-md-12 {
+    text-align: center;
+    columns: 2;
+    grid-row: 3;
+  }
+
+  #video-block {
+    text-align: center;
+  }
+}
