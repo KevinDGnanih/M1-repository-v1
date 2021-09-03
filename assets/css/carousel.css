@@ -60,7 +60,7 @@ body {
   font-size: 2em;
   
 }
-/* rtl:begin:ignore */
+
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
@@ -81,8 +81,6 @@ body {
   font-size: 80px;
 }
 
-/* rtl:end:ignore */
-
 /*Video Section*/
 
 #video-block > div {
@@ -99,7 +97,7 @@ body {
   display: inline-block;
 }
 
-/*Gallery Section*/
+/* Gallery Section */
 
 .gallery-h {
   text-align: center;
@@ -107,7 +105,7 @@ body {
 }
 
 
-/*Biography Section*/
+/* Biography Section */
 
 .col-md-5 img {
   object-fit: cover;
@@ -201,13 +199,13 @@ body {
     grid-row: 3;
   }
 }
-
+/*
 @media screen and (min-width: 1024px) {
   .col-md-12 {
-    /*columns: 2;*/
+    columns: 2;
   }
   
-}
+}*/
 
 @media screen and (min-width: 768px) {
   .col-md-12 {
