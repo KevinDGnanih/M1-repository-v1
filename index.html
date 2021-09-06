@@ -30,14 +30,14 @@
             <li class="nav-item"><a class="nav-link" href="#video-section" tabindex="-1" aria-disabled="true">VIDEO</a></li>
             <li class="nav-item"><a class="nav-link" href="#bio-sec">BIO</a></li>
             <li class="nav-item"><a class="nav-link" href="#gallery-sec">GALLERY</a></li>
-            <li class="nav-item"><a class="nav-link" href="contact.html">CONTACT</a></li>
+            <li class="nav-item"><a class="nav-link" href="#sec-contact">CONTACT</a></li>
           </ul>
         </div>
       </div>
     </nav>
   </header>
 
-  <!-- CCAROUSEL SECTION -->
+  <!-- CAROUSEL SECTION -->
   <main>
     <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-indicators">
@@ -73,7 +73,7 @@
             <div class="carousel-caption text-end">
               <h1>Get in touch</h1>
               <p>Book me, Contact me</p>
-              <p><a class="btn btn-lg btn-primary" href="contact.html">Contact</a></p>
+              <p><a class="btn btn-lg btn-primary" href="#contact-sec">Contact</a></p>
             </div>
           </div>
         </div>
@@ -88,8 +88,7 @@
       </button>
     </div>
 
-    <!-- MUSIC SECTION -->
-    
+    <!-- MUSIC SECTION -->   
     <div class="container marketing">
       <div class="row">
         <h1 id="music-sec">MUSIC</h1>
@@ -132,7 +131,7 @@
       <!-- BIOGRAPHY SECTION -->
       <hr id="bio-sec" class="featurette-divider">
 
-      <h1 class="bio-h">Biography</h1>
+      <h1 class="bio-h">BIOGRAPHY</h1>
 
       <div class="row featurette">
         <div class="col-md-7">
@@ -177,7 +176,7 @@
       <hr id="gallery-sec" class="featurette-divider">
 
       <div class="row featurette">
-        <h1 class="gallery-h">Gallery</h1>
+        <h1 class="gallery-h">GALLERY</h1>
         <br>
         <div class="col-md-12">
           <div class="grid imglist">
@@ -206,8 +205,30 @@
           </div>
         </div>
       </div>
-      <hr class="featurette-divider">
-    </div>
+      <hr id="sec-contact" class="featurette-divider">
+
+      <!--FORM SECTION-->
+      <div id="contact-sec">
+        <div class="main-block">
+          <h1 class="cont-h">CONTACT US</h1>
+          <p>Contact, Booking</p>
+          <form method="POST" action="https://formdump.codeinstitute.net/">
+            <div class="info">
+              <input class="fname" type="text" name="first_name" placeholder="First Name" required>
+              <input class="lname" type="text" name="last_name" placeholder="Last name" required>
+              <input type="text" name="email" placeholder="Email" required>
+              <input type="text" name="subject" placeholder="Subject">
+            </div>
+            <p class="cont-p">Message</p>
+            <div>
+              <textarea rows="4"></textarea>
+            </div>
+            <button id="sub-but" type="submit" href="/">Submit</button>
+          </form>
+        </div>
+      </div>
+    <hr class="featurette-divider">
+  </div>
 
     <!-- FOOTER SECTION -->
     <footer class="container">
