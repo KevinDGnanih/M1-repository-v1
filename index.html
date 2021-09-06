@@ -14,9 +14,9 @@
   <title>Kevin Davy White</title>
 </head>
 
-<body data-bs-spy="scroll" data-bs-target="#music-sec #video-section #bio-sec #gallery-sec #contact-sec">
+<body data-bs-spy="scroll" data-bs-target="#my-scroll">
   <header>
-    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <nav id="my-scroll" class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
       <div class="container-fluid">
         <a id="logo" class="navbar-brand" href="index.html">KEVIN DAVY <span class="w-rule">W</span>HITE</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
@@ -25,7 +25,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav me-auto mb-2 mb-md-0">
-            <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">HOME</a></li>
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="#myCarousel">HOME</a></li>
             <li class="nav-item"><a class="nav-link" href="#music-sec">MUSIC</a></li>
             <li class="nav-item"><a class="nav-link" href="#video-section" tabindex="-1" aria-disabled="true">VIDEO</a></li>
             <li class="nav-item"><a class="nav-link" href="#bio-sec">BIO</a></li>
@@ -246,5 +246,11 @@
   <script src="https://kit.fontawesome.com/bb09779c85.js" crossorigin="anonymous"></script>
   <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script>
+
+  <script>
+    var scrollSpy = new bootstrap.ScrollSpy(document.body, {
+  target: '#my-scroll'
+})
+  </script>
 </body>
 </html>
