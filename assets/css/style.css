@@ -109,7 +109,6 @@ body {
 
 /* FOOTER SECTION*/
 .socials {
-  
   text-align: center;
 }
 .socials ul {
@@ -191,6 +190,9 @@ input::placeholder {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+  .socials {
+    text-align: center;
+  }
 }
 
 @media (min-width: 40em) {
@@ -203,11 +205,17 @@ input::placeholder {
   .featurette-heading {
     font-size: 50px;
   }
+  .socials {
+    text-align: center;
+  }
 }
 
 @media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem;
+  }
+  .socials {
+    text-align: center;
   }
 }
 
@@ -216,15 +224,20 @@ input::placeholder {
     columns: 3;
     grid-row: 3;
   }
+  .socials {
+    text-align: center;
+  }
 }
 
 @media screen and (min-width: 768px) {
   .col-md-12 {
     text-align: center;
-    /*columns: 2;*/
     grid-row: 3;
   }
   #video-block {
+    text-align: center;
+  }
+  .socials {
     text-align: center;
   }
 }
