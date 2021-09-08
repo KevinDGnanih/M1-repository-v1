@@ -37,6 +37,15 @@ _ To encourage potential fans or clients to contact  or book the artist.
 
 _ To find out more information about the artist and his musics.
 _ To be entertained with musics and videos.
-_ To find effortlessly find contact information to touhc base or book the artist.
+_ To find effortlessly contact information to touch base or book the artist.
+_ To view promotional activity such as social media.
+This is a base Bootstrap template using the carousel component.
 
-This is a base Bootstrap template using the carousel component
+# UX
+
+### Strategy
+
+My strategy for the site was to provide content and ease of access to users and fans trying to attain information by utilising the key UX principals.
+I believe that giving credible, valuable and usable infos were higly significant to implement in the project. By proving the best features/technologies the customeners and fans want.
+
+### Ideal users of the website:
