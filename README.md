@@ -35,4 +35,8 @@ _ To encourage potential fans or clients to contact  or book the artist.
 
 ** The customer goals of this website are: **
 
+_ To find out more information about the artist and his musics.
+_ To be entertained with musics and videos.
+_ To find effortlessly find contact information to touhc base or book the artist.
+
 This is a base Bootstrap template using the carousel component
