@@ -16,7 +16,7 @@ Screenshot from [Am I Responsive](http://http://ami.responsivedesign.is/#)
 The website is created to showcase the singer-songwriter Kevin Davy White. Providing music streaming platform links, videos and information about the artist
 through out the webpage.
 
-** The sections of the webpage are: **
+###### The sections of the webpage are:
 
 1. Home/Banners carousel style
 2. Music section/ Favourite streaming music platform
@@ -33,7 +33,7 @@ _ To inform users about the talented artist.
 _ To increase booking and streams
 _ To encourage potential fans or clients to contact  or book the artist.
 
-** The customer goals of this website are: **
+###### The customer goals of this website are:
 
 _ To find out more information about the artist and his musics.
 _ To be entertained with musics and videos.
@@ -48,4 +48,31 @@ This is a base Bootstrap template using the carousel component.
 My strategy for the site was to provide content and ease of access to users and fans trying to attain information by utilising the key UX principals.
 I believe that giving credible, valuable and usable infos were higly significant to implement in the project. By proving the best features/technologies the customeners and fans want.
 
-### Ideal users of the website:
+###### Ideal users of the website:
+
+_ Fan of Blues-Rock musics
+_ Festival promoter
+_ Venue managers
+
+###### These users are looking for:
+
+_ An music expercience, a professional artist
+_ Evidence of promotional work
+
+
+The website was made in a way to not overwelme the users with clean and ituative information and navigation.
+Most of the users discover artist from their mobile phones, so therefore creating something responvise was essential.
+
+# Scope
+
+In order to achieve the discovery and strategy goals, the following features wwere included in this release:
+
+- Header and menu bar, to navigate to various sections of the page
+- Banner section in carousel style to showcase some straight forward actions
+- Three favourite music streaming platforms ready to be clicked and listen
+- Three video of the artist's performance to showcase his live talent and charisma
+- A short biography with pictures along side to make the reading easy and contectual
+- Simple Contact form
+- Footer containing links to social media
+
+# Structure
