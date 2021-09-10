@@ -72,7 +72,12 @@ In order to achieve the discovery and strategy goals, the following features wwe
 - Three favourite music streaming platforms ready to be clicked and listen
 - Three video of the artist's performance to showcase his live talent and charisma
 - A short biography with pictures along side to make the reading easy and contectual
+- A stylish gallery to showcases some perfomances and artist style
 - Simple Contact form
 - Footer containing links to social media
 
 # Structure
+
+This is a single-page website to allow the easiest navigation possible. With the conventional navigation bar at the top allows effortless move in the page 
+to whatever section the user wants to go to with a scrollspy to information easly where they are in the page. I've chosen the following order for the information
+"Home/Carousel -> Music -> Video -> Biography -> Gallery -> Contact" because I felt this would allow the information to be disgested in the best way. While allowing the user to learn more about the artist, music and experience they could have, and finishing with the contact form to call them for an action.
