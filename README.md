@@ -81,3 +81,18 @@ In order to achieve the discovery and strategy goals, the following features wwe
 This is a single-page website to allow the easiest navigation possible. With the conventional navigation bar at the top allows effortless move in the page 
 to whatever section the user wants to go to with a scrollspy to information easly where they are in the page. I've chosen the following order for the information
 "Home/Carousel -> Music -> Video -> Biography -> Gallery -> Contact" because I felt this would allow the information to be disgested in the best way. While allowing the user to learn more about the artist, music and experience they could have, and finishing with the contact form to call them for an action.
+
+
+# Skelton
+
+Picture of my scketching here
+
+Please note the actual website has sligthly change from the initial wireframes.
+
+While building the website I felt that the sections order were the best way to go for by going to the point with music section as first. Then only scrolling doing to get a bit more information and divertisement at the same time. I wanted three collumns of information because I felt it was the write balance of throught the sections and amount without overloading the sections and the user.
+
+I aslo regroup all three pages into one to no disturbing the flow of information and navigation of the user. Because I thought hte main audiance will be using mobile. It is always better to not disturb the user going through several pages for the same topic.
+
+I also was creative while building the design of the website and decided along the building process. As a musician, it is an asets very useful to incorport feel, style and putting myself in the user shoes.
+
+# Surface
