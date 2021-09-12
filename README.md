@@ -63,7 +63,7 @@ _ Evidence of promotional work
 The website was made in a way to not overwelme the users with clean and ituative information and navigation.
 Most of the users discover artist from their mobile phones, so therefore creating something responvise was essential.
 
-# Scope
+### Scope
 
 In order to achieve the discovery and strategy goals, the following features wwere included in this release:
 
@@ -76,14 +76,14 @@ In order to achieve the discovery and strategy goals, the following features wwe
 - Simple Contact form
 - Footer containing links to social media
 
-# Structure
+### Structure
 
 This is a single-page website to allow the easiest navigation possible. With the conventional navigation bar at the top allows effortless move in the page 
 to whatever section the user wants to go to with a scrollspy to information easly where they are in the page. I've chosen the following order for the information
 "Home/Carousel -> Music -> Video -> Biography -> Gallery -> Contact" because I felt this would allow the information to be disgested in the best way. While allowing the user to learn more about the artist, music and experience they could have, and finishing with the contact form to call them for an action.
 
 
-# Skelton
+### Skelton
 
 Picture of my scketching here
 
@@ -95,4 +95,6 @@ I aslo regroup all three pages into one to no disturbing the flow of information
 
 I also was creative while building the design of the website and decided along the building process. As a musician, it is an asets very useful to incorport feel, style and putting myself in the user shoes.
 
-# Surface
+### Surface
+
+I chose the theme color of the artist Kevin Davy White red, white-off and black. Those colors keep the brand and appear less cluttered and minimalistic adding to the overall UX. 
