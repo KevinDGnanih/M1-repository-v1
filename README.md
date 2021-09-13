@@ -143,3 +143,27 @@ The footer section contains copyrights information as well as external links to 
 
 # Technologies Used
 
+In the construction of this website, I have used several technologies to program the page.
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - Used as the basic building block for the project and to structure the content
+- [CSS3](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    - Used to style all the web content across the project.
+- [JavaScript](https://www.javascript.com/)
+    - Used for the responsive navbar, form, scroll down arrow and read more/read less button.
+- [Bootstrap v5.1.1](https://getbootstrap.com/)
+    -The project used Bootstrap to provide overall responsive behaviour on all devices and simplify the website layout.
+- [GitPod](https://www.gitpod.io/)
+    - I used Gitpod as the development environment for the website.
+- [GitHub](https://github.com/)
+    - The project used Github to host my code that was created and pushed from GitPod.
+- [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
+    - I created pictures to fit the mood of the artist and arranged the resolution to assure good quality images.
+- [Font Awesome](https://fontawesome.com/)
+    - I used the font & icon toolkit Font Awesome in the music section and footer links and back to top button to define elements by a visual means.
+- [YouTube](https://www.youtube.com/)
+    - For all my video section links, I used the video-embeded platform YouTube to give the chance of the users to be entertaine while staying on the page.
+
+
+
+
