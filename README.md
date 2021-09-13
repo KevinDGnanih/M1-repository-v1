@@ -108,9 +108,18 @@ I also wanted to code the navbar to collapse into a Hamburger menu botton as it 
 ### Header: 
 The header features a responsive navigation bar with links pointing to each section on the right-hand sie with the artist logo placed on the left to follow standard industry practice. The navbar is fixed to allow the use ease of access to the site's core functionalities and as a resultm generates high usability for the one*page website.
 Containing a Bootstrap carousel of 3 immersive imgaes of the artist. This signifies the charisma and calming persona of the artist. 
-Each image points to three informative sections of the website, Biography, Musics and Contact. Each of these image includes a caption reflecting that particalr section.
+Each image points to three informative sections of the website, Biography, Musics and Contact. Each of these images includes a caption reflecting that particalr section.
 The header was intentionally designed with monochrome theme to strategically draw the user's attention to the logo and theme color of the artist.
 
-### Music section:
+### Music Section:
 
+This section starts with an H1 heading centered followed by three favourites music platforms links. in those three music streaming services, I'm using Font Awesome icons.
+This structure is used to provided clarity of the items wihthin the section and make it easy to understand at a glance.
+The stucture allows the users to direct their attention to their favourite music streaming platforms they are more intrested in. 
 
+### Video Section:
+
+In this sections I used a similar approch to the music section above to keep a fluid experiance to the user and keep the same shape of the page.
+Starting with a H1 followed by three videos below. Those video are embended from YouTube source.
+
+### Biography Section:
