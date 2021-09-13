@@ -135,4 +135,11 @@ image from the background.
 
 ### Contact Form:
 
-After the users has gained knowledge and is confidence from the content, they finally land to simple Contact form. The form is compiled of onlu the necessary informatiuon required to avoid the user losing intrerst and not making contact.
+After the users has gained knowledge and is confidence from the content, they finally land to simple Contact form. The form is compiled of onlu the necessary informatiuon required to avoid the user losing intrerst and not making contact. Most of the inputs are required to submit the form. The colour oallet used is the same across the site. 
+
+### Footer:
+
+The footer section contains copyrights information as well as external links to the artist's social media channels and a "Back to top" button for the users to easily reach to top without any effort to improve the overall UX.
+
+# Technologies Used
+
