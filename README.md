@@ -105,5 +105,12 @@ The webpage is fully responsive. Designed to work well on mobile up to desktop s
 The page is divided into 6 sections listed in the navbar. I used the Bootstrap plugin, Scrollspy to intuitivilly update links in the navigation list based on the current scroll position, by highlithing the color of the current section with the accent color to reminf the user of their location on the site.
 I also wanted to code the navbar to collapse into a Hamburger menu botton as it is ubiquitous and users understand it's purppose on mobile sites. 
 
-### Header:
+### Header: 
+The header features a responsive navigation bar with links pointing to each section on the right-hand sie with the artist logo placed on the left to follow standard industry practice. The navbar is fixed to allow the use ease of access to the site's core functionalities and as a resultm generates high usability for the one*page website.
+Containing a Bootstrap carousel of 3 immersive imgaes of the artist. This signifies the charisma and calming persona of the artist. 
+Each image points to three informative sections of the website, Biography, Musics and Contact. Each of these image includes a caption reflecting that particalr section.
+The header was intentionally designed with monochrome theme to strategically draw the user's attention to the logo and theme color of the artist.
+
+### Music section:
+
 
