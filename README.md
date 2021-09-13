@@ -123,3 +123,16 @@ In this sections I used a similar approch to the music section above to keep a f
 Starting with a H1 followed by three videos below. Those video are embended from YouTube source.
 
 ### Biography Section:
+
+This biography section is where users can have a brief insight into who is Kevin Davy White, and discover a summury of his journey until now.
+I wanted to keep this section small, clean with some picture that goes along side of the paragraphs.
+
+### Gallery Section:
+
+The Gallery section starts with a H1 header followed by three collums of two rows "Desktop size".
+When the user click on any images a Bootstrap layout pop up on top of the webpage with semi transparent black background to highlight and separate the 
+image from the background.
+
+### Contact Form:
+
+After the users has gained knowledge and is confidence from the content, they finally land to simple Contact form. The form is compiled of onlu the necessary informatiuon required to avoid the user losing intrerst and not making contact.
