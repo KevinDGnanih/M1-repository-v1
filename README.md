@@ -98,3 +98,12 @@ I also was creative while building the design of the website and decided along t
 ### Surface
 
 I chose the theme color of the artist Kevin Davy White red, white-off and black. Those colors keep the brand and appear less cluttered and minimalistic adding to the overall UX. 
+
+# Features
+
+The webpage is fully responsive. Designed to work well on mobile up to desktop size. 
+The page is divided into 6 sections listed in the navbar. I used the Bootstrap plugin, Scrollspy to intuitivilly update links in the navigation list based on the current scroll position, by highlithing the color of the current section with the accent color to reminf the user of their location on the site.
+I also wanted to code the navbar to collapse into a Hamburger menu botton as it is ubiquitous and users understand it's purppose on mobile sites. 
+
+### Header:
+
