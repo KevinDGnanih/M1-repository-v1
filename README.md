@@ -163,6 +163,8 @@ In the construction of this website, I have used several technologies to program
     - I used the font & icon toolkit Font Awesome in the music section and footer links and back to top button to define elements by a visual means.
 - [YouTube](https://www.youtube.com/)
     - For all my video section links, I used the video-embeded platform YouTube to give the chance of the users to be entertaine while staying on the page.
+- [Google Fonts](https://fonts.google.com/)
+    - Google fonts was used to style the website fonts.
 
 
 
