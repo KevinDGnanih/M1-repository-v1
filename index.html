@@ -25,7 +25,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav me-auto mb-2 mb-md-0">
-            <li class="nav-item"><a class="nav-link active" aria-current="page" href="#logo">HOME</a></li>
+            <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">HOME</a></li>
             <li class="nav-item"><a class="nav-link" href="#music-sec">MUSIC</a></li>
             <li class="nav-item"><a class="nav-link" href="#video-section" tabindex="-1" aria-disabled="true">VIDEO</a></li>
             <li class="nav-item"><a class="nav-link" href="#bio-sec">BIO</a></li>
@@ -208,16 +208,16 @@
         <div class="main-block">
           <h1 class="cont-h">CONTACT US</h1>
           <p>Contact, Book KDW for any special events</p>
-          <form method="POST" action="https://formdump.codeinstitute.net/">
+          <form method="POST" action="https://formdump.codeinstitute.net/" target="_blank">
             <div class="info">
               <input class="fname" type="text" name="first_name" placeholder="First Name" required>
               <input class="lname" type="text" name="last_name" placeholder="Last name" required>
               <input type="email" name="email_address" placeholder="Email" required>
-              <input type="text" name="subject" placeholder="Subject">
+              <input type="text" name="subject" placeholder="Subject" required>
             </div>
             <p class="cont-p">Message</p>
             <div>
-              <textarea rows="4"></textarea>
+              <textarea name="message" maxlength="400" rows="4" required></textarea>
             </div>
             <button id="sub-but" type="submit" href="/">Submit</button>
           </form>
