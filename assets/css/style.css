@@ -91,6 +91,10 @@ body {
   display: inline-block;
 }
 
+#v1, #v2, #v3 {
+  border: 0;
+}
+
 /* GALLERY SECTION */
 .gallery-h {
   text-align: center;
@@ -109,7 +113,10 @@ body {
   text-decoration: none;
   color: #5a5a5a;
 }
-
+.bio-pics {
+  width: 400px;
+  height: 400px;
+}
 /* FOOTER SECTION*/
 .socials {
   text-align: center;
