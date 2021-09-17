@@ -169,5 +169,11 @@ In the construction of this website, I have used several technologies to program
     - W3C CSS Validation Service was used to check the validity of my CSS in the project.
 - [W3C Markup Validation Service](https://validator.w3.org/)
     -The W3C Markup Validation Service checked the markup validity of Web documents in HTML.
+- [Optimizilla Image Compressor](https://imagecompressor.com/)
+    - Optimizilla was used to further compress the images with custom compression options.
 
+# Testing 
 
+## UX stories
+        1. As a first-time visitor, I want to easily find useful information & musics about Kevin Davy White.
+           As soon as you enter the page you can easily see within the navbar the 'Music' section; upon clicking this you are taken to a section filled with tips on various elements of travelling/backpacking.
