@@ -82,8 +82,10 @@ body {
 }
 
 /* VIDEO SECTION */
+
 #video-block > div {
-  display: inline-block;
+  display: block;
+  text-align: center;
 }
 .video-sec > h1 {
   text-align: center;
@@ -91,7 +93,6 @@ body {
 }
 .video-sec > div {
   margin-top: 50px;
-  display: inline-block;
 }
 
 #v1, #v2, #v3 {
