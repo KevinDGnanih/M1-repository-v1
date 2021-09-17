@@ -84,7 +84,7 @@ body {
 /* VIDEO SECTION */
 
 #video-block > div {
-  display: block;
+  display: inline-block;
   text-align: center;
 }
 .video-sec > h1 {

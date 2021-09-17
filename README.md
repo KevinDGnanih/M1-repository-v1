@@ -165,8 +165,9 @@ In the construction of this website, I have used several technologies to program
     - For all my video section links, I used the video-embeded platform YouTube to give the chance of the users to be entertaine while staying on the page.
 - [Google Fonts](https://fonts.google.com/)
     - Google fonts was used to style the website fonts.
-- [W3C CSS Validation Service]()
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
     - W3C CSS Validation Service was used to check the validity of my CSS in the project.
-
+- [W3C Markup Validation Service](https://validator.w3.org/)
+    -The W3C Markup Validation Service checked the markup validity of Web documents in HTML.
 
 
