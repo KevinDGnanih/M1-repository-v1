@@ -199,8 +199,9 @@ In the construction of this website, I have used several technologies to program
         6. As a new visitor or fan, I want to check out their social media channels
 
         There are social media icons found in the footer which link to the company's channels.
+        Also a copyright information on the left side of the footer and a button "Back to top" on the right side to the page to let the users going back up tot the page without scrolling 
 
-        # Code Validation
+# Code Validation
 
 
 
