@@ -175,5 +175,9 @@ In the construction of this website, I have used several technologies to program
 # Testing 
 
 ## UX stories
-        1. As a first-time visitor, I want to easily find useful information & musics about Kevin Davy White.
-           As soon as you enter the page you can easily see within the navbar the 'Music' section; upon clicking this you are taken to a section filled with tips on various elements of travelling/backpacking.
+        1. As a new visitor, I want to easily navigate the site to find whether the designer the right fit for my needs.
+        The user can navigate through the website using the navbar menu on top right hand side of the page.
+        The logo links the user back to the Home Page.
+
+        2. As a new visitor, I would like to find music and video of the artist to see if I like the musics and the image of the artist.
+        There is a clear direction in the navbar that to find out more info on the artists represented, the link for "Music" & "Video" should be selected. Also in the carousel in the header, there is a caption "In your favourite music streaming platforms" and a Call To Action button to "Listen NOW". Links direct to the correct section.
