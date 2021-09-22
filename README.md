@@ -203,6 +203,56 @@ In the construction of this website, I have used several technologies to program
 
 # Code Validation
 
+## HTML and CSS Validation
+
+I used the [W3C Markup Validation Service](https://validator.w3.org/) to check the Markup and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to check the CSS
+validity of the site.
+
+![alt text](picture of the validation here)
+
+After fixing the errors on both testing sites, the site eventually passed the W3C Validation.
+
+## Lighthouse
+
+Lighthouse is a feature of Google Chrome developer tools and is used to assess the performance of the website and its features. I achieved a low-performance score initially.
+But I made a conscious effort to increase this by reducing the image quality, added some aria-label, and fixing some conventionals issues in my html and css files. Furthermore, 
+I added the "rel=noreferrer" to some of my external links as this is considered best practice.
+
+I am very please to now hit above 90 for all scores:
+
+picture here
+
+# Deployement
+
+I deployed this website by using GitPages and following the below steps:
+
+GitHub pages deployement
+
+1. Log in to GitHub
+2. In your Repository section, selected the project repository that I wanted to deploy
+3. In the menu located at the top of this section, clicked "settings"
+4. Selected "Pages" on the ledt-hand-menu - this is around the end of the menu.
+5. In the source section, selected branch "Master" and saved.
+6. The page is then given a site URL wich you will see above the source section, it will look like the following below:
+
+picture here of the github webiste page link
+
+# Credits
+
+I've used a number of resources to produce this webiste:
+
+- The embeded vidos used in this site were obtained from [YouTube](https://www.youtube.com)
+- All the pictures used in this site were obtained from the artist [Kevin Davy White](https://www.kevindavywhite.com)
+
+## Acknowledgements
+
+I would like to thanks my mentor [Guido Cecilio](https://github.com/guidocecilio) for his support and guidance throughout the course of this porject.
+
+
+
+
+
+
 
 
 
