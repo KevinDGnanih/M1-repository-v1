@@ -234,7 +234,7 @@ GitHub pages deployment
 5. In the source section, select branch "Master" and saved.
 6. The page is then given a site URL which you will see above the source section, it will look like the following below:
 
-picture here of the github webiste page link
+![alt text](assets/images/git-hub-page.PNG)
 
 # Credits
 
