@@ -219,7 +219,7 @@ I added the "rel=noreferrer" to some of my external links as this is considered 
 
 I am very pleased to now hitting above 90 for all scores:
 
-![alt text](assets/imgaes/Lighthouse-score-v2.PNG)
+![alt text](assets/imgaes/lighthouse-score-v2.png)
 
 # Deployement
 
