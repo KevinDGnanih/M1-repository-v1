@@ -50,14 +50,14 @@ I believe that giving credible, valuable, and usable infos were highly significa
 
 ###### Ideal users of the website:
 
-_ Fan of Blues-Rock music
-_ Festival promoter
-_ Venue managers
+- Fan of Blues-Rock music
+- Festival promoter
+- Venue managers
 
 ###### These users are looking for:
 
-_ An music experience, a professional artist
-_ Evidence of promotional work
+- An music experience, a professional artist
+- Evidence of promotional work
 
 
 The website was made in a way to not overwelm the users with clean and ituitive information and navigation.
