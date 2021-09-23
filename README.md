@@ -16,7 +16,7 @@ Screenshot from [Am I Responsive](http://http://ami.responsivedesign.is/#)
 The website is created to showcase the singer-songwriter, Kevin Davy White. Providing music streaming platform links, videos, and information about the artist
 throughout the webpage.
 
-###### The sections of the webpage are:
+**The sections of the webpage are:**
 
 1. Home/Banners carousel style
 2. Music section/ Favourite streaming music platform
@@ -28,17 +28,17 @@ throughout the webpage.
 The website layout is structured in a way to guide the user to discover the artist via different media and highlights
 his talent and professionalism. These sections and information lead the user to the contact form.
 
-** The business goals of this website are: **
-_ To inform users about the talented artist.
-_ To increase booking and streams
-_ To encourage potential fans or clients to contact or book the artist.
+**The business goals of this website are:**
+- To inform users about the talented artist.
+- To increase booking and streams
+- To encourage potential fans or clients to contact or book the artist.
 
-###### The customer goals of this website are:
+**The customer goals of this website are:**
 
-_ To find out more information about the artist and his music.
-_ To be entertained with musics and videos.
-_ To find effortlessly contact information to touch base or book the artist.
-_ To view promotional activity such as social media.
+- To find out more information about the artist and his music.
+- To be entertained with musics and videos.
+- To find effortlessly contact information to touch base or book the artist.
+- To view promotional activity such as social media.
 This is a base Bootstrap template using the carousel component.
 
 # UX
@@ -48,13 +48,13 @@ This is a base Bootstrap template using the carousel component.
 My strategy for the site was to provide content and ease of access to users and fans trying to attain information by utilizing the key UX principles.
 I believe that giving credible, valuable, and usable infos were highly significant to implement in the project. By proving the best features/technologies the customers and fans want.
 
-###### Ideal users of the website:
+**Ideal users of the website:**
 
 - Fan of Blues-Rock music
 - Festival promoter
 - Venue managers
 
-###### These users are looking for:
+**These users are looking for:**
 
 - An music experience, a professional artist
 - Evidence of promotional work
