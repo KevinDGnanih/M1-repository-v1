@@ -84,7 +84,7 @@ This is a single-page website to allow the easiest navigation possible. The conv
 
 ### Skelton
 
-![alt text](assets/images/draft1.jpeg) ![alt text](assets/images/draft2.jpeg)
+![alt text](assets/images/draft1.jpeg , assets/images/draft2.jpeg)
 
 Please note the actual website has slightly changed from the initial wireframes.
 
