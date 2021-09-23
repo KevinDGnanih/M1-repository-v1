@@ -84,7 +84,7 @@ This is a single-page website to allow the easiest navigation possible. The conv
 
 ### Skelton
 
-Picture of my scketching here
+![alt text](assets/images/draft1.jpeg) ![alt text](assets/images/draft2.jpeg)
 
 Please note the actual website has slightly changed from the initial wireframes.
 
@@ -207,7 +207,7 @@ Also, copyright information on the left side of the footer and a button "Back to
 I used the [W3C Markup Validation Service](https://validator.w3.org/) to check the Markup and [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to check the CSS
 validity of the site.
 
-![alt text](picture of the validation here)
+![alt text](assets/images/W3C-validation-v1.PNG)
 
 After fixing the errors on both testing sites, the site eventually passed the W3C Validation.
 
@@ -219,7 +219,7 @@ I added the "rel=noreferrer" to some of my external links as this is considered 
 
 I am very pleased to now hitting above 90 for all scores:
 
-picture here
+![alt text](assets/imgaes/Lighthouse-score-v2.PNG)
 
 # Deployement
 
