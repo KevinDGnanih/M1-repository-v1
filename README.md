@@ -174,27 +174,27 @@ In the construction of this website, I have used several technologies to program
 
 ## UX stories
         
-1. As a new visitor or fan, I want to easily navigate the site to find whether the designer the right fit for my needs.
+**As a new visitor or fan, I want to easily navigate the site to find whether the designer the right fit for my needs.**
         
 The user can navigate through the website using the navbar menu on the top right-hand side of the page.
 The logo links the user back to the Home Page.
 
-2. As a new visitor or fan, I would like to find Music and Video of the artist to see if I like the music and the image of the artist.
+**As a new visitor or fan, I would like to find Music and Video of the artist to see if I like the music and the image of the artist.**
         
 There is a clear direction in the navbar that to find out more info on the artists represented, the link for "Music" & "Video" should be selected. Also in the carousel in the header, there is a caption "In your favorite music streaming platforms" and a Call To Action button to "Listen NOW". Links direct to the correct section.
 
-3. As a new visitor or fan, I want to have more information and experience about the artist.
+**As a new visitor or fan, I want to have more information and experience about the artist.**
         
 There is an option in the navigation bar called "Biography" to learn more about the artist. Also in the slider, there is a caption reading "Let the soul come out" with a all to action displaying to "Biography". Links direct to the relevant section.
 
-4. As a new visitor or fan, I want to see more images and promotion pictures of the artist.
+**As a new visitor or fan, I want to see more images and promotion pictures of the artist.**
 There is an option in the navigation bar called "Gallery" to see more promotion pictures of the artist.
 
-5. As an interested new visitor or fan, I want to contact them about working together.
+**As an interested new visitor or fan, I want to contact them about working together.**
 
 There is a prominent button at the top of the page directing the user towards the contact form. The form does not allow the user to submit their inquiry until all fields are completed otherwise they will receive a prompt. This was achieved using the required attribute.
 
-6. As a new visitor or fan, I want to check out their social media channels
+**As a new visitor or fan, I want to check out their social media channels**
 
 There are social media icons found in the footer which link to the company's channels.
 Also, copyright information on the left side of the footer and a button "Back to top" on the right side of the page to let the users going back up to the page without scrolling 
