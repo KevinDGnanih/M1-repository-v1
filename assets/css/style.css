@@ -205,6 +205,12 @@ input::placeholder {
   .socials {
     text-align: center;
   }
+  body {
+    position: relative;
+  }
+  main {
+    position: relative;
+  }
 }
 
 @media (min-width: 40em) {
