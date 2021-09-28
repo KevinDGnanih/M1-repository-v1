@@ -1,5 +1,6 @@
 /* Carousel base class */
 .carousel {
+  margin-top: 4rem;
   margin-bottom: 4rem;
   border-bottom: 1px solid rgb(82, 80, 80);
 }
