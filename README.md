@@ -5,7 +5,7 @@ The first project was to develop a static front-end webpage using HTML and CSS
 following the UX industry conventions with a minimum of three separate page areas.
 This page was created for educational purposes.
 
-[View website in GitHub Pages.](https://kevindgnanih.github.io/M1-repository-v1/)
+[View website in GitHub Pages.](https://kevindgnanih.github.io/M1-repository-v1/){:target="_blank"}
 
 ![alt text](assets/images/preview-sizes-webpage.PNG "Responsive Image")
 
