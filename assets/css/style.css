@@ -8,10 +8,13 @@ body {
   padding-bottom: 3rem;
   color: #5a5a5a;
 }
+
 .w-rule {
   color: tomato;
 }
+
 .btn:hover {
+ 
   background-color: tomato;
 }
 .btn, .btn-lg, .btn-primary {
@@ -19,14 +22,17 @@ body {
   background-color: white;
   border: 1px solid tomato;
 }
+
 .featurette-divider {
   margin: 5rem 0;
 }
+
 .featurette-heading {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
 }
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
@@ -34,6 +40,7 @@ body {
   -moz-user-select: none;
   user-select: none;
 }
+
 .fa-angle-up {
   color: tomato;
 }
@@ -42,9 +49,11 @@ body {
 #logo {
   font-size: 2em;
 }
+
 #navbarCollapse {
   flex-grow: 0;
 }
+
 .nav-link:hover {
   color: tomato !important; 
 }
@@ -56,26 +65,32 @@ body {
 .row h1 {
   text-align: center;
 }
+
 .marketing .col-lg-4 {
   margin-top: 50px;
   margin-bottom: 1.5rem;
   text-align: center;
 }
+
 .marketing h2 {
   font-size: 2em;
 }
+
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
 }
+
 .fa-spotify {
   color: rgb(24, 180, 24);
   font-size: 80px;
 }
+
 .fa-itunes {
   color: rgb(214, 75, 75);
   font-size: 80px;
 }
+
 .fa-amazon {
   color: rgb(201, 131, 2);
   font-size: 80px;
@@ -87,12 +102,15 @@ body {
   display: inline-block;
   text-align: center;
 }
+
 .video-sec > h1 {
   text-align: center;
 }
+
 .video-sec > div {
   margin-top: 50px;
 }
+
 #v1, #v2, #v3 {
   border: 0;
 }
@@ -107,41 +125,51 @@ body {
 .col-md-5 img {
   object-fit: cover;
 }
+
 .bio-h {
   text-align: center;
   padding-bottom: 50px;
 }
+
 .float-end a {
   text-decoration: none;
   color: #5a5a5a;
 }
+
 .bio-pics {
   width: 400px;
   height: 400px;
 }
+
 /* FOOTER SECTION*/
 .socials {
   text-align: center;
 }
+
 .socials ul {
   position: relative;
 }
+
 .socials li {
   padding: 15px;
   display: inline;
   list-style-type: none;
 }
+
 .socials a {
   font-size: 25px;
   color:rgb(82, 80, 80)
 }
+
 .socials a:hover {
   color: tomato;
 }
+
 .footer-spotify {
   font-size: 25px;
   color:rgb(82, 80, 80);
 }
+
 .footer-spotify:hover {
   color: tomato;
 }
@@ -152,27 +180,32 @@ body {
   height: 720px;
   margin-top: 5%;
 }
+
 .cont-h h1 {
   margin: 0 0 20px;
   font-weight: 400;
   text-align: center;
 }
+
 .cont-p p {
   margin: 0 0 5px;
 }
+
 .main-block {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
+
 form {
   padding: 25px;
   margin: 25px;
   margin-bottom: 20%;
   box-shadow: 0 2px 5px #f5f5f5; 
   background: #f5f5f5; 
-}   
+}
+
 input, textarea {
   width: calc(100%);
   padding: 8px;
@@ -180,9 +213,11 @@ input, textarea {
   border: 1px solid tomato;
   outline: none;
 }
+
 input::placeholder {
   color: #666;
 }
+
 #sub-but {
   width: 100%;
   padding: 10px;
@@ -191,9 +226,16 @@ input::placeholder {
   font-size: 16px;
   font-weight: 400;
   color: black;
-  }
+}
+
 #sub-but:hover {
   background: rgb(189, 33, 5);
+}
+
+.hr-first {
+  color: white;
+  margin-bottom: 5rem;
+  margin-top: 0;
 }
 
 /* RESPONSIVE CSS */
